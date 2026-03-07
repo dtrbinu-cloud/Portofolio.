@@ -1,2 +1,1 @@
-LINK
-link on : https://portofolio-binu.aujasena.workers.dev/
+LINK on : https://portofolio-binu.aujasena.workers.dev/

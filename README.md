@@ -1,1 +1,2 @@
-LINK on : https://portofolio-binu.aujasena.workers.dev/
+open with link below :
+https://portofolio-binu.aujasena.workers.dev/
